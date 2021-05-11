@@ -385,4 +385,28 @@ Wire Notes Line
 	4600 4900 500  4900
 Text Notes 500  4850 0    157  ~ 0
 Microcontroller
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 60A05972
+P 5650 1650
+F 0 "MX?" H 5683 1873 60  0000 C CNN
+F 1 "MX-NoLED" H 5683 1799 20  0000 C CNN
+F 2 "" H 5025 1625 60  0001 C CNN
+F 3 "" H 5025 1625 60  0001 C CNN
+	1    5650 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D?
+U 1 1 60A06719
+P 5600 1950
+F 0 "D?" V 5646 1880 50  0000 R CNN
+F 1 "D_Small" V 5555 1880 50  0000 R CNN
+F 2 "" V 5600 1950 50  0001 C CNN
+F 3 "~" V 5600 1950 50  0001 C CNN
+	1    5600 1950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5600 1850 5600 1800
 $EndSCHEMATC
