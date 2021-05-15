@@ -386,12 +386,12 @@ Wire Notes Line
 Text Notes 500  4850 0    157  ~ 0
 Microcontroller
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 60A05972
 P 5100 1000
 F 0 "MX1" H 5133 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 5133 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4475 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 4475 975 60  0001 C CNN
 F 3 "" H 4475 975 60  0001 C CNN
 	1    5100 1000
 	1    0    0    -1  
@@ -410,12 +410,12 @@ $EndComp
 Wire Wire Line
 	5050 1200 5050 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 609C1E8D
 P 5550 1000
 F 0 "MX5" H 5583 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 5583 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4925 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 4925 975 60  0001 C CNN
 F 3 "" H 4925 975 60  0001 C CNN
 	1    5550 1000
 	1    0    0    -1  
@@ -434,12 +434,12 @@ $EndComp
 Wire Wire Line
 	5500 1150 5500 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 609CBDD6
 P 6000 1000
 F 0 "MX9" H 6033 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 6033 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5375 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5375 975 60  0001 C CNN
 F 3 "" H 5375 975 60  0001 C CNN
 	1    6000 1000
 	1    0    0    -1  
@@ -458,12 +458,12 @@ $EndComp
 Wire Wire Line
 	5950 1200 5950 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 609CDAD5
 P 6450 1000
 F 0 "MX13" H 6483 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 6483 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5825 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5825 975 60  0001 C CNN
 F 3 "" H 5825 975 60  0001 C CNN
 	1    6450 1000
 	1    0    0    -1  
@@ -482,12 +482,12 @@ $EndComp
 Wire Wire Line
 	6400 1200 6400 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 609CFD29
 P 6900 1000
 F 0 "MX18" H 6933 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 6933 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6275 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6275 975 60  0001 C CNN
 F 3 "" H 6275 975 60  0001 C CNN
 	1    6900 1000
 	1    0    0    -1  
@@ -506,12 +506,12 @@ $EndComp
 Wire Wire Line
 	6850 1200 6850 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX23
 U 1 1 609D0D40
 P 7350 1000
 F 0 "MX23" H 7383 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 7383 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6725 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6725 975 60  0001 C CNN
 F 3 "" H 6725 975 60  0001 C CNN
 	1    7350 1000
 	1    0    0    -1  
@@ -530,12 +530,12 @@ $EndComp
 Wire Wire Line
 	7300 1200 7300 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX28
 U 1 1 609D24C3
 P 7850 1000
 F 0 "MX28" H 7883 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 7883 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7225 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7225 975 60  0001 C CNN
 F 3 "" H 7225 975 60  0001 C CNN
 	1    7850 1000
 	1    0    0    -1  
@@ -554,12 +554,12 @@ $EndComp
 Wire Wire Line
 	7800 1200 7800 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX33
 U 1 1 609E5704
 P 8300 1000
 F 0 "MX33" H 8333 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 8333 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7675 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7675 975 60  0001 C CNN
 F 3 "" H 7675 975 60  0001 C CNN
 	1    8300 1000
 	1    0    0    -1  
@@ -578,12 +578,12 @@ $EndComp
 Wire Wire Line
 	8250 1200 8250 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX38
 U 1 1 609E5711
 P 8750 1000
 F 0 "MX38" H 8783 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 8783 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8125 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8125 975 60  0001 C CNN
 F 3 "" H 8125 975 60  0001 C CNN
 	1    8750 1000
 	1    0    0    -1  
@@ -602,12 +602,12 @@ $EndComp
 Wire Wire Line
 	8700 1150 8700 1200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX43
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX43
 U 1 1 609E571E
 P 9200 1000
 F 0 "MX43" H 9233 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 9233 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8575 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8575 975 60  0001 C CNN
 F 3 "" H 8575 975 60  0001 C CNN
 	1    9200 1000
 	1    0    0    -1  
@@ -626,12 +626,12 @@ $EndComp
 Wire Wire Line
 	9150 1200 9150 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX48
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX48
 U 1 1 609E572B
 P 9650 1000
 F 0 "MX48" H 9683 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9025 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9025 975 60  0001 C CNN
 F 3 "" H 9025 975 60  0001 C CNN
 	1    9650 1000
 	1    0    0    -1  
@@ -650,12 +650,12 @@ $EndComp
 Wire Wire Line
 	9600 1200 9600 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX53
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX53
 U 1 1 609E5738
 P 10100 1000
 F 0 "MX53" H 10133 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 10133 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9475 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9475 975 60  0001 C CNN
 F 3 "" H 9475 975 60  0001 C CNN
 	1    10100 1000
 	1    0    0    -1  
@@ -674,12 +674,12 @@ $EndComp
 Wire Wire Line
 	10050 1200 10050 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX57
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX57
 U 1 1 609E5745
 P 10550 1000
 F 0 "MX57" H 10583 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 10583 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9925 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9925 975 60  0001 C CNN
 F 3 "" H 9925 975 60  0001 C CNN
 	1    10550 1000
 	1    0    0    -1  
@@ -698,12 +698,12 @@ $EndComp
 Wire Wire Line
 	10500 1200 10500 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX60
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX60
 U 1 1 609E5752
 P 11050 1000
 F 0 "MX60" H 11083 1223 60  0000 C CNN
 F 1 "MX-NoLED" H 11083 1149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 10425 975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_2.00u" H 10425 975 60  0001 C CNN
 F 3 "" H 10425 975 60  0001 C CNN
 	1    11050 1000
 	1    0    0    -1  
@@ -722,12 +722,12 @@ $EndComp
 Wire Wire Line
 	11000 1200 11000 1150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 609F9FA7
 P 5100 1750
 F 0 "MX2" H 5133 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 5133 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4475 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.50u" H 4475 1725 60  0001 C CNN
 F 3 "" H 4475 1725 60  0001 C CNN
 	1    5100 1750
 	1    0    0    -1  
@@ -746,12 +746,12 @@ $EndComp
 Wire Wire Line
 	5050 1950 5050 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 609F9FB4
 P 5550 1750
 F 0 "MX6" H 5583 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 5583 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4925 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 4925 1725 60  0001 C CNN
 F 3 "" H 4925 1725 60  0001 C CNN
 	1    5550 1750
 	1    0    0    -1  
@@ -770,12 +770,12 @@ $EndComp
 Wire Wire Line
 	5500 1900 5500 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 609F9FC1
 P 6000 1750
 F 0 "MX10" H 6033 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 6033 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5375 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5375 1725 60  0001 C CNN
 F 3 "" H 5375 1725 60  0001 C CNN
 	1    6000 1750
 	1    0    0    -1  
@@ -794,12 +794,12 @@ $EndComp
 Wire Wire Line
 	5950 1950 5950 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX14
 U 1 1 609F9FCE
 P 6450 1750
 F 0 "MX14" H 6483 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 6483 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5825 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5825 1725 60  0001 C CNN
 F 3 "" H 5825 1725 60  0001 C CNN
 	1    6450 1750
 	1    0    0    -1  
@@ -818,12 +818,12 @@ $EndComp
 Wire Wire Line
 	6400 1950 6400 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX19
 U 1 1 609F9FDB
 P 6900 1750
 F 0 "MX19" H 6933 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 6933 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6275 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6275 1725 60  0001 C CNN
 F 3 "" H 6275 1725 60  0001 C CNN
 	1    6900 1750
 	1    0    0    -1  
@@ -842,12 +842,12 @@ $EndComp
 Wire Wire Line
 	6850 1950 6850 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX24
 U 1 1 609F9FE8
 P 7350 1750
 F 0 "MX24" H 7383 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 7383 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6725 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6725 1725 60  0001 C CNN
 F 3 "" H 6725 1725 60  0001 C CNN
 	1    7350 1750
 	1    0    0    -1  
@@ -866,12 +866,12 @@ $EndComp
 Wire Wire Line
 	7300 1950 7300 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX29
 U 1 1 609F9FF5
 P 7850 1750
 F 0 "MX29" H 7883 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 7883 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7225 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7225 1725 60  0001 C CNN
 F 3 "" H 7225 1725 60  0001 C CNN
 	1    7850 1750
 	1    0    0    -1  
@@ -890,12 +890,12 @@ $EndComp
 Wire Wire Line
 	7800 1950 7800 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX34
 U 1 1 609FA002
 P 8300 1750
 F 0 "MX34" H 8333 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 8333 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7675 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7675 1725 60  0001 C CNN
 F 3 "" H 7675 1725 60  0001 C CNN
 	1    8300 1750
 	1    0    0    -1  
@@ -914,12 +914,12 @@ $EndComp
 Wire Wire Line
 	8250 1950 8250 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX39
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX39
 U 1 1 609FA00F
 P 8750 1750
 F 0 "MX39" H 8783 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 8783 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8125 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8125 1725 60  0001 C CNN
 F 3 "" H 8125 1725 60  0001 C CNN
 	1    8750 1750
 	1    0    0    -1  
@@ -938,12 +938,12 @@ $EndComp
 Wire Wire Line
 	8700 1900 8700 1950
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX44
 U 1 1 609FA01C
 P 9200 1750
 F 0 "MX44" H 9233 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 9233 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8575 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8575 1725 60  0001 C CNN
 F 3 "" H 8575 1725 60  0001 C CNN
 	1    9200 1750
 	1    0    0    -1  
@@ -962,12 +962,12 @@ $EndComp
 Wire Wire Line
 	9150 1950 9150 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX49
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX49
 U 1 1 609FA029
 P 9650 1750
 F 0 "MX49" H 9683 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9025 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9025 1725 60  0001 C CNN
 F 3 "" H 9025 1725 60  0001 C CNN
 	1    9650 1750
 	1    0    0    -1  
@@ -986,12 +986,12 @@ $EndComp
 Wire Wire Line
 	9600 1950 9600 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX54
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX54
 U 1 1 609FA036
 P 10100 1750
 F 0 "MX54" H 10133 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 10133 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9475 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9475 1725 60  0001 C CNN
 F 3 "" H 9475 1725 60  0001 C CNN
 	1    10100 1750
 	1    0    0    -1  
@@ -1010,12 +1010,12 @@ $EndComp
 Wire Wire Line
 	10050 1950 10050 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX58
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX58
 U 1 1 609FA043
 P 10550 1750
 F 0 "MX58" H 10583 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 10583 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9925 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9925 1725 60  0001 C CNN
 F 3 "" H 9925 1725 60  0001 C CNN
 	1    10550 1750
 	1    0    0    -1  
@@ -1034,12 +1034,12 @@ $EndComp
 Wire Wire Line
 	10500 1950 10500 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX61
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX61
 U 1 1 609FA050
 P 11050 1750
 F 0 "MX61" H 11083 1973 60  0000 C CNN
 F 1 "MX-NoLED" H 11083 1899 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 10425 1725 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.50u" H 10425 1725 60  0001 C CNN
 F 3 "" H 10425 1725 60  0001 C CNN
 	1    11050 1750
 	1    0    0    -1  
@@ -1058,12 +1058,12 @@ $EndComp
 Wire Wire Line
 	11000 1950 11000 1900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 60A10395
 P 5100 2500
 F 0 "MX3" H 5133 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 5133 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4475 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.75u" H 4475 2475 60  0001 C CNN
 F 3 "" H 4475 2475 60  0001 C CNN
 	1    5100 2500
 	1    0    0    -1  
@@ -1082,12 +1082,12 @@ $EndComp
 Wire Wire Line
 	5050 2700 5050 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 60A103A2
 P 5550 2500
 F 0 "MX7" H 5583 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 5583 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4925 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 4925 2475 60  0001 C CNN
 F 3 "" H 4925 2475 60  0001 C CNN
 	1    5550 2500
 	1    0    0    -1  
@@ -1106,12 +1106,12 @@ $EndComp
 Wire Wire Line
 	5500 2650 5500 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 60A103AF
 P 6000 2500
 F 0 "MX11" H 6033 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 6033 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5375 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5375 2475 60  0001 C CNN
 F 3 "" H 5375 2475 60  0001 C CNN
 	1    6000 2500
 	1    0    0    -1  
@@ -1130,12 +1130,12 @@ $EndComp
 Wire Wire Line
 	5950 2700 5950 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 60A103BC
 P 6450 2500
 F 0 "MX15" H 6483 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 6483 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5825 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5825 2475 60  0001 C CNN
 F 3 "" H 5825 2475 60  0001 C CNN
 	1    6450 2500
 	1    0    0    -1  
@@ -1154,12 +1154,12 @@ $EndComp
 Wire Wire Line
 	6400 2700 6400 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX20
 U 1 1 60A103C9
 P 6900 2500
 F 0 "MX20" H 6933 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 6933 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6275 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6275 2475 60  0001 C CNN
 F 3 "" H 6275 2475 60  0001 C CNN
 	1    6900 2500
 	1    0    0    -1  
@@ -1178,12 +1178,12 @@ $EndComp
 Wire Wire Line
 	6850 2700 6850 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX25
 U 1 1 60A103D6
 P 7350 2500
 F 0 "MX25" H 7383 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 7383 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6725 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6725 2475 60  0001 C CNN
 F 3 "" H 6725 2475 60  0001 C CNN
 	1    7350 2500
 	1    0    0    -1  
@@ -1202,12 +1202,12 @@ $EndComp
 Wire Wire Line
 	7300 2700 7300 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX30
 U 1 1 60A103E3
 P 7850 2500
 F 0 "MX30" H 7883 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 7883 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7225 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7225 2475 60  0001 C CNN
 F 3 "" H 7225 2475 60  0001 C CNN
 	1    7850 2500
 	1    0    0    -1  
@@ -1226,12 +1226,12 @@ $EndComp
 Wire Wire Line
 	7800 2700 7800 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX35
 U 1 1 60A103F0
 P 8300 2500
 F 0 "MX35" H 8333 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 8333 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7675 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7675 2475 60  0001 C CNN
 F 3 "" H 7675 2475 60  0001 C CNN
 	1    8300 2500
 	1    0    0    -1  
@@ -1250,12 +1250,12 @@ $EndComp
 Wire Wire Line
 	8250 2700 8250 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX40
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX40
 U 1 1 60A103FD
 P 8750 2500
 F 0 "MX40" H 8783 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 8783 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8125 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8125 2475 60  0001 C CNN
 F 3 "" H 8125 2475 60  0001 C CNN
 	1    8750 2500
 	1    0    0    -1  
@@ -1274,12 +1274,12 @@ $EndComp
 Wire Wire Line
 	8700 2650 8700 2700
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX45
 U 1 1 60A1040A
 P 9200 2500
 F 0 "MX45" H 9233 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 9233 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8575 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8575 2475 60  0001 C CNN
 F 3 "" H 8575 2475 60  0001 C CNN
 	1    9200 2500
 	1    0    0    -1  
@@ -1298,12 +1298,12 @@ $EndComp
 Wire Wire Line
 	9150 2700 9150 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX50
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX50
 U 1 1 60A10417
 P 9650 2500
 F 0 "MX50" H 9683 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9025 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9025 2475 60  0001 C CNN
 F 3 "" H 9025 2475 60  0001 C CNN
 	1    9650 2500
 	1    0    0    -1  
@@ -1322,12 +1322,12 @@ $EndComp
 Wire Wire Line
 	9600 2700 9600 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX55
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX55
 U 1 1 60A10424
 P 10100 2500
 F 0 "MX55" H 10133 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 10133 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9475 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9475 2475 60  0001 C CNN
 F 3 "" H 9475 2475 60  0001 C CNN
 	1    10100 2500
 	1    0    0    -1  
@@ -1346,12 +1346,12 @@ $EndComp
 Wire Wire Line
 	10050 2700 10050 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX59
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX59
 U 1 1 60A10431
 P 10550 2500
 F 0 "MX59" H 10583 2723 60  0000 C CNN
 F 1 "MX-NoLED" H 10583 2649 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9925 2475 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_2.25u" H 9925 2475 60  0001 C CNN
 F 3 "" H 9925 2475 60  0001 C CNN
 	1    10550 2500
 	1    0    0    -1  
@@ -1370,12 +1370,12 @@ $EndComp
 Wire Wire Line
 	10500 2700 10500 2650
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 60A37489
 P 5100 3250
 F 0 "MX4" H 5133 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 5133 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4475 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_2.25u" H 4475 3225 60  0001 C CNN
 F 3 "" H 4475 3225 60  0001 C CNN
 	1    5100 3250
 	1    0    0    -1  
@@ -1394,12 +1394,12 @@ $EndComp
 Wire Wire Line
 	5050 3450 5050 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 60A37496
 P 5550 3250
 F 0 "MX8" H 5583 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 5583 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 4925 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 4925 3225 60  0001 C CNN
 F 3 "" H 4925 3225 60  0001 C CNN
 	1    5550 3250
 	1    0    0    -1  
@@ -1418,12 +1418,12 @@ $EndComp
 Wire Wire Line
 	5500 3400 5500 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 60A374A3
 P 6000 3250
 F 0 "MX12" H 6033 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 6033 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5375 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5375 3225 60  0001 C CNN
 F 3 "" H 5375 3225 60  0001 C CNN
 	1    6000 3250
 	1    0    0    -1  
@@ -1442,12 +1442,12 @@ $EndComp
 Wire Wire Line
 	5950 3450 5950 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 60A374B0
 P 6450 3250
 F 0 "MX16" H 6483 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 6483 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 5825 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 5825 3225 60  0001 C CNN
 F 3 "" H 5825 3225 60  0001 C CNN
 	1    6450 3250
 	1    0    0    -1  
@@ -1466,12 +1466,12 @@ $EndComp
 Wire Wire Line
 	6400 3450 6400 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX21
 U 1 1 60A374BD
 P 6900 3250
 F 0 "MX21" H 6933 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 6933 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6275 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6275 3225 60  0001 C CNN
 F 3 "" H 6275 3225 60  0001 C CNN
 	1    6900 3250
 	1    0    0    -1  
@@ -1490,12 +1490,12 @@ $EndComp
 Wire Wire Line
 	6850 3450 6850 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX26
 U 1 1 60A374CA
 P 7350 3250
 F 0 "MX26" H 7383 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 7383 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 6725 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 6725 3225 60  0001 C CNN
 F 3 "" H 6725 3225 60  0001 C CNN
 	1    7350 3250
 	1    0    0    -1  
@@ -1514,12 +1514,12 @@ $EndComp
 Wire Wire Line
 	7300 3450 7300 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX31
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX31
 U 1 1 60A374D7
 P 7850 3250
 F 0 "MX31" H 7883 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 7883 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7225 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7225 3225 60  0001 C CNN
 F 3 "" H 7225 3225 60  0001 C CNN
 	1    7850 3250
 	1    0    0    -1  
@@ -1538,12 +1538,12 @@ $EndComp
 Wire Wire Line
 	7800 3450 7800 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX36
 U 1 1 60A374E4
 P 8300 3250
 F 0 "MX36" H 8333 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 8333 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 7675 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 7675 3225 60  0001 C CNN
 F 3 "" H 7675 3225 60  0001 C CNN
 	1    8300 3250
 	1    0    0    -1  
@@ -1562,12 +1562,12 @@ $EndComp
 Wire Wire Line
 	8250 3450 8250 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX41
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX41
 U 1 1 60A374F1
 P 8750 3250
 F 0 "MX41" H 8783 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 8783 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8125 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8125 3225 60  0001 C CNN
 F 3 "" H 8125 3225 60  0001 C CNN
 	1    8750 3250
 	1    0    0    -1  
@@ -1586,12 +1586,12 @@ $EndComp
 Wire Wire Line
 	8700 3400 8700 3450
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX46
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX46
 U 1 1 60A374FE
 P 9200 3250
 F 0 "MX46" H 9233 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 9233 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 8575 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 8575 3225 60  0001 C CNN
 F 3 "" H 8575 3225 60  0001 C CNN
 	1    9200 3250
 	1    0    0    -1  
@@ -1610,12 +1610,12 @@ $EndComp
 Wire Wire Line
 	9150 3450 9150 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX51
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX51
 U 1 1 60A3750B
 P 9650 3250
 F 0 "MX51" H 9683 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9025 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u" H 9025 3225 60  0001 C CNN
 F 3 "" H 9025 3225 60  0001 C CNN
 	1    9650 3250
 	1    0    0    -1  
@@ -1634,12 +1634,12 @@ $EndComp
 Wire Wire Line
 	9600 3450 9600 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX56
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX56
 U 1 1 60A37518
 P 10100 3250
 F 0 "MX56" H 10133 3473 60  0000 C CNN
 F 1 "MX-NoLED" H 10133 3399 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1U" H 9475 3225 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_2.75u" H 9475 3225 60  0001 C CNN
 F 3 "" H 9475 3225 60  0001 C CNN
 	1    10100 3250
 	1    0    0    -1  
@@ -1658,60 +1658,60 @@ $EndComp
 Wire Wire Line
 	10050 3450 10050 3400
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX22
 U 1 1 60A37573
-P 6900 4000
-F 0 "MX22" H 6933 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 6933 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 6275 3975 60  0001 C CNN
-F 3 "" H 6275 3975 60  0001 C CNN
-	1    6900 4000
+P 5550 4000
+F 0 "MX22" H 5583 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 5583 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 4925 3975 60  0001 C CNN
+F 3 "" H 4925 3975 60  0001 C CNN
+	1    5550 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D22
 U 1 1 60A37579
-P 6850 4300
-F 0 "D22" V 6896 4230 50  0000 R CNN
-F 1 "D_Small" V 6805 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 6850 4300 50  0001 C CNN
-F 3 "~" V 6850 4300 50  0001 C CNN
-	1    6850 4300
+P 5500 4300
+F 0 "D22" V 5546 4230 50  0000 R CNN
+F 1 "D_Small" V 5455 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 5500 4300 50  0001 C CNN
+F 3 "~" V 5500 4300 50  0001 C CNN
+	1    5500 4300
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	6850 4200 6850 4150
+	5500 4200 5500 4150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX27
 U 1 1 60A37580
-P 7350 4000
-F 0 "MX27" H 7383 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 7383 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 6725 3975 60  0001 C CNN
-F 3 "" H 6725 3975 60  0001 C CNN
-	1    7350 4000
+P 6000 4000
+F 0 "MX27" H 6033 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 6033 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 5375 3975 60  0001 C CNN
+F 3 "" H 5375 3975 60  0001 C CNN
+	1    6000 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D27
 U 1 1 60A37586
-P 7300 4300
-F 0 "D27" V 7346 4230 50  0000 R CNN
-F 1 "D_Small" V 7255 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 7300 4300 50  0001 C CNN
-F 3 "~" V 7300 4300 50  0001 C CNN
-	1    7300 4300
+P 5950 4300
+F 0 "D27" V 5996 4230 50  0000 R CNN
+F 1 "D_Small" V 5905 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 5950 4300 50  0001 C CNN
+F 3 "~" V 5950 4300 50  0001 C CNN
+	1    5950 4300
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	7300 4200 7300 4150
+	5950 4200 5950 4150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX32
 U 1 1 60A3758D
 P 7850 4000
 F 0 "MX32" H 7883 4223 60  0000 C CNN
 F 1 "MX-NoLED" H 7883 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.75U" H 7225 3975 60  0001 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_6.25u" H 7225 3975 60  0001 C CNN
 F 3 "" H 7225 3975 60  0001 C CNN
 	1    7850 4000
 	1    0    0    -1  
@@ -1730,123 +1730,99 @@ $EndComp
 Wire Wire Line
 	7800 4200 7800 4150
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
-U 1 1 60A3759A
-P 8300 4000
-F 0 "MX37" H 8333 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 8333 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 7675 3975 60  0001 C CNN
-F 3 "" H 7675 3975 60  0001 C CNN
-	1    8300 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D37
-U 1 1 60A375A0
-P 8250 4300
-F 0 "D37" V 8296 4230 50  0000 R CNN
-F 1 "D_Small" V 8205 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 8250 4300 50  0001 C CNN
-F 3 "~" V 8250 4300 50  0001 C CNN
-	1    8250 4300
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	8250 4200 8250 4150
-$Comp
-L MX_Alps_Hybrid:MX-NoLED MX42
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX42
 U 1 1 60A375A7
-P 8750 4000
-F 0 "MX42" H 8783 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 8783 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 8125 3975 60  0001 C CNN
-F 3 "" H 8125 3975 60  0001 C CNN
-	1    8750 4000
+P 10100 4000
+F 0 "MX42" H 10133 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 10133 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 9475 3975 60  0001 C CNN
+F 3 "" H 9475 3975 60  0001 C CNN
+	1    10100 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D42
 U 1 1 60A375AD
-P 8700 4300
-F 0 "D42" V 8746 4230 50  0000 R CNN
-F 1 "D_Small" V 8655 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 8700 4300 50  0001 C CNN
-F 3 "~" V 8700 4300 50  0001 C CNN
-	1    8700 4300
+P 10050 4300
+F 0 "D42" V 10096 4230 50  0000 R CNN
+F 1 "D_Small" V 10005 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10050 4300 50  0001 C CNN
+F 3 "~" V 10050 4300 50  0001 C CNN
+	1    10050 4300
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	8700 4150 8700 4200
+	10050 4150 10050 4200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX47
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX47
 U 1 1 60A375B4
-P 9200 4000
-F 0 "MX47" H 9233 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 9233 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 8575 3975 60  0001 C CNN
-F 3 "" H 8575 3975 60  0001 C CNN
-	1    9200 4000
+P 10550 4000
+F 0 "MX47" H 10583 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 10583 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 9925 3975 60  0001 C CNN
+F 3 "" H 9925 3975 60  0001 C CNN
+	1    10550 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D47
 U 1 1 60A375BA
-P 9150 4300
-F 0 "D47" V 9196 4230 50  0000 R CNN
-F 1 "D_Small" V 9105 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 9150 4300 50  0001 C CNN
-F 3 "~" V 9150 4300 50  0001 C CNN
-	1    9150 4300
+P 10500 4300
+F 0 "D47" V 10546 4230 50  0000 R CNN
+F 1 "D_Small" V 10455 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 10500 4300 50  0001 C CNN
+F 3 "~" V 10500 4300 50  0001 C CNN
+	1    10500 4300
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	9150 4200 9150 4150
+	10500 4200 10500 4150
 Wire Wire Line
-	9600 4200 9600 4150
+	11000 4200 11000 4150
 $Comp
 L Device:D_Small D52
 U 1 1 60A375C7
-P 9600 4300
-F 0 "D52" V 9646 4230 50  0000 R CNN
-F 1 "D_Small" V 9555 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 9600 4300 50  0001 C CNN
-F 3 "~" V 9600 4300 50  0001 C CNN
-	1    9600 4300
+P 11000 4300
+F 0 "D52" V 11046 4230 50  0000 R CNN
+F 1 "D_Small" V 10955 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 11000 4300 50  0001 C CNN
+F 3 "~" V 11000 4300 50  0001 C CNN
+	1    11000 4300
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX52
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX52
 U 1 1 60A375C1
-P 9650 4000
-F 0 "MX52" H 9683 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 9683 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 9025 3975 60  0001 C CNN
-F 3 "" H 9025 3975 60  0001 C CNN
-	1    9650 4000
+P 11050 4000
+F 0 "MX52" H 11083 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 11083 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 10425 3975 60  0001 C CNN
+F 3 "" H 10425 3975 60  0001 C CNN
+	1    11050 4000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6400 4200 6400 4150
+	5050 4200 5050 4150
 $Comp
 L Device:D_Small D17
 U 1 1 60A3756C
-P 6400 4300
-F 0 "D17" V 6446 4230 50  0000 R CNN
-F 1 "D_Small" V 6355 4230 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 6400 4300 50  0001 C CNN
-F 3 "~" V 6400 4300 50  0001 C CNN
-	1    6400 4300
+P 5050 4300
+F 0 "D17" V 5096 4230 50  0000 R CNN
+F 1 "D_Small" V 5005 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 5050 4300 50  0001 C CNN
+F 3 "~" V 5050 4300 50  0001 C CNN
+	1    5050 4300
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 60A37566
-P 6450 4000
-F 0 "MX17" H 6483 4223 60  0000 C CNN
-F 1 "MX-NoLED" H 6483 4149 20  0000 C CNN
-F 2 "Kailh_Choc:KailhChoc-1.25U" H 5825 3975 60  0001 C CNN
-F 3 "" H 5825 3975 60  0001 C CNN
-	1    6450 4000
+P 5100 4000
+F 0 "MX17" H 5133 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 4475 3975 60  0001 C CNN
+F 3 "" H 4475 3975 60  0001 C CNN
+	1    5100 4000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2001,29 +1977,6 @@ Wire Wire Line
 Connection ~ 10050 3650
 Wire Wire Line
 	10050 3650 11500 3650
-Wire Wire Line
-	6400 4400 6850 4400
-Connection ~ 6850 4400
-Wire Wire Line
-	6850 4400 7300 4400
-Connection ~ 7300 4400
-Wire Wire Line
-	7300 4400 7800 4400
-Connection ~ 7800 4400
-Wire Wire Line
-	7800 4400 8250 4400
-Connection ~ 8250 4400
-Wire Wire Line
-	8250 4400 8700 4400
-Connection ~ 8700 4400
-Wire Wire Line
-	8700 4400 9150 4400
-Connection ~ 9150 4400
-Wire Wire Line
-	9150 4400 9600 4400
-Connection ~ 9600 4400
-Wire Wire Line
-	9600 4400 11500 4400
 Connection ~ 11000 1400
 Wire Wire Line
 	11000 1400 11500 1400
@@ -2037,7 +1990,7 @@ Wire Wire Line
 	5250 2450 5250 3200
 Connection ~ 5250 3200
 Wire Wire Line
-	5250 3200 5250 4900
+	5250 3200 5250 3950
 Wire Wire Line
 	5700 950  5700 1700
 Connection ~ 5700 1700
@@ -2048,7 +2001,7 @@ Wire Wire Line
 	5700 2450 5700 3200
 Connection ~ 5700 3200
 Wire Wire Line
-	5700 3200 5700 4900
+	5700 3200 5700 3950
 Wire Wire Line
 	6150 950  6150 1700
 Connection ~ 6150 1700
@@ -2059,7 +2012,7 @@ Wire Wire Line
 	6150 2450 6150 3200
 Connection ~ 6150 3200
 Wire Wire Line
-	6150 3200 6150 4900
+	6150 3200 6150 3950
 Wire Wire Line
 	6600 950  6600 1700
 Connection ~ 6600 1700
@@ -2068,12 +2021,6 @@ Wire Wire Line
 Connection ~ 6600 2450
 Wire Wire Line
 	6600 2450 6600 3200
-Connection ~ 6600 3200
-Wire Wire Line
-	6600 3200 6600 3950
-Connection ~ 6600 3950
-Wire Wire Line
-	6600 3950 6600 4900
 Wire Wire Line
 	7050 950  7050 1700
 Connection ~ 7050 1700
@@ -2082,12 +2029,6 @@ Wire Wire Line
 Connection ~ 7050 2450
 Wire Wire Line
 	7050 2450 7050 3200
-Connection ~ 7050 3200
-Wire Wire Line
-	7050 3200 7050 3950
-Connection ~ 7050 3950
-Wire Wire Line
-	7050 3950 7050 4900
 Wire Wire Line
 	7500 950  7500 1700
 Connection ~ 7500 1700
@@ -2096,12 +2037,6 @@ Wire Wire Line
 Connection ~ 7500 2450
 Wire Wire Line
 	7500 2450 7500 3200
-Connection ~ 7500 3200
-Wire Wire Line
-	7500 3200 7500 3950
-Connection ~ 7500 3950
-Wire Wire Line
-	7500 3950 7500 4900
 Wire Wire Line
 	8000 950  8000 1700
 Connection ~ 8000 1700
@@ -2110,12 +2045,6 @@ Wire Wire Line
 Connection ~ 8000 2450
 Wire Wire Line
 	8000 2450 8000 3200
-Connection ~ 8000 3200
-Wire Wire Line
-	8000 3200 8000 3950
-Connection ~ 8000 3950
-Wire Wire Line
-	8000 3950 8000 4900
 Wire Wire Line
 	8450 950  8450 1700
 Connection ~ 8450 1700
@@ -2124,12 +2053,6 @@ Wire Wire Line
 Connection ~ 8450 2450
 Wire Wire Line
 	8450 2450 8450 3200
-Connection ~ 8450 3200
-Wire Wire Line
-	8450 3200 8450 3950
-Connection ~ 8450 3950
-Wire Wire Line
-	8450 3950 8450 4900
 Wire Wire Line
 	8900 950  8900 1700
 Connection ~ 8900 1700
@@ -2138,12 +2061,6 @@ Wire Wire Line
 Connection ~ 8900 2450
 Wire Wire Line
 	8900 2450 8900 3200
-Connection ~ 8900 3200
-Wire Wire Line
-	8900 3200 8900 3950
-Connection ~ 8900 3950
-Wire Wire Line
-	8900 3950 8900 4900
 Wire Wire Line
 	9350 950  9350 1700
 Connection ~ 9350 1700
@@ -2152,12 +2069,6 @@ Wire Wire Line
 Connection ~ 9350 2450
 Wire Wire Line
 	9350 2450 9350 3200
-Connection ~ 9350 3200
-Wire Wire Line
-	9350 3200 9350 3950
-Connection ~ 9350 3950
-Wire Wire Line
-	9350 3950 9350 4900
 Wire Wire Line
 	9800 950  9800 1700
 Connection ~ 9800 1700
@@ -2166,12 +2077,6 @@ Wire Wire Line
 Connection ~ 9800 2450
 Wire Wire Line
 	9800 2450 9800 3200
-Connection ~ 9800 3200
-Wire Wire Line
-	9800 3200 9800 3950
-Connection ~ 9800 3950
-Wire Wire Line
-	9800 3950 9800 4900
 Wire Wire Line
 	10250 950  10250 1700
 Connection ~ 10250 1700
@@ -2180,22 +2085,13 @@ Wire Wire Line
 Connection ~ 10250 2450
 Wire Wire Line
 	10250 2450 10250 3200
-Connection ~ 10250 3200
-Wire Wire Line
-	10250 3200 10250 4900
 Wire Wire Line
 	10700 950  10700 1700
 Connection ~ 10700 1700
 Wire Wire Line
 	10700 1700 10700 2450
-Connection ~ 10700 2450
-Wire Wire Line
-	10700 2450 10700 4900
 Wire Wire Line
 	11200 950  11200 1700
-Connection ~ 11200 1700
-Wire Wire Line
-	11200 1700 11200 4900
 Text GLabel 11500 1400 2    50   Input ~ 0
 A
 Text GLabel 11500 2150 2    50   Input ~ 0
@@ -2300,9 +2196,108 @@ F 3 "" H 1350 1500 50  0001 C CNN
 	1    1350 1500
 	1    0    0    -1  
 $EndComp
+Connection ~ 5250 3950
 Wire Wire Line
-	1250 1400 1350 1400
+	5250 3950 5250 4900
+Connection ~ 5700 3950
 Wire Wire Line
-	1350 1400 1350 1500
-NoConn ~ 1250 1300
+	5700 3950 5700 4900
+Connection ~ 6150 3950
+Wire Wire Line
+	6150 3950 6150 4900
+Wire Wire Line
+	11200 1700 11200 3950
+Connection ~ 11200 1700
+Connection ~ 11200 3950
+Wire Wire Line
+	11200 3950 11200 4900
+Wire Wire Line
+	10700 2450 10700 3950
+Connection ~ 10700 2450
+Connection ~ 10700 3950
+Wire Wire Line
+	10700 3950 10700 4900
+Wire Wire Line
+	10250 3200 10250 3950
+Connection ~ 10250 3200
+Connection ~ 10250 3950
+Wire Wire Line
+	10250 3950 10250 4900
+Wire Wire Line
+	9600 4200 9600 4150
+$Comp
+L Device:D_Small D37
+U 1 1 60A375A0
+P 9600 4300
+F 0 "D37" V 9646 4230 50  0000 R CNN
+F 1 "D_Small" V 9555 4230 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9600 4300 50  0001 C CNN
+F 3 "~" V 9600 4300 50  0001 C CNN
+	1    9600 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCB-rescue:MX-NoLED-MX_Alps_Hybrid MX37
+U 1 1 60A3759A
+P 9650 4000
+F 0 "MX37" H 9683 4223 60  0000 C CNN
+F 1 "MX-NoLED" H 9683 4149 20  0000 C CNN
+F 2 "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.25u" H 9025 3975 60  0001 C CNN
+F 3 "" H 9025 3975 60  0001 C CNN
+	1    9650 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9800 3200 9800 3950
+Connection ~ 9800 3200
+Connection ~ 9800 3950
+Wire Wire Line
+	9800 3950 9800 4900
+Wire Wire Line
+	5050 4400 5500 4400
+Connection ~ 5500 4400
+Wire Wire Line
+	5500 4400 5950 4400
+Connection ~ 5950 4400
+Wire Wire Line
+	5950 4400 7800 4400
+Connection ~ 7800 4400
+Wire Wire Line
+	7800 4400 9600 4400
+Connection ~ 9600 4400
+Wire Wire Line
+	9600 4400 10050 4400
+Connection ~ 10050 4400
+Wire Wire Line
+	10050 4400 10500 4400
+Connection ~ 10500 4400
+Wire Wire Line
+	10500 4400 11000 4400
+Connection ~ 11000 4400
+Wire Wire Line
+	11000 4400 11500 4400
+Wire Wire Line
+	9350 3200 9350 4900
+Connection ~ 9350 3200
+Wire Wire Line
+	8900 4900 8900 3200
+Connection ~ 8900 3200
+Wire Wire Line
+	8450 3200 8450 4900
+Connection ~ 8450 3200
+Wire Wire Line
+	8000 4900 8000 3950
+Connection ~ 8000 3200
+Connection ~ 8000 3950
+Wire Wire Line
+	8000 3950 8000 3200
+Wire Wire Line
+	7500 3200 7500 4900
+Connection ~ 7500 3200
+Wire Wire Line
+	7050 4900 7050 3200
+Connection ~ 7050 3200
+Wire Wire Line
+	6600 3200 6600 4900
+Connection ~ 6600 3200
 $EndSCHEMATC

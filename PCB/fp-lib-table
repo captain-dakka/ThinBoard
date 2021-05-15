@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name Kailh_Choc)(type KiCad)(uri C:/Users/oscar/Documents/thinboard/MX_Alps_Hybrid/Kailh_Choc.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri C:/Users/oscar/Documents/thinboard/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Kailh)(type KiCad)(uri C:/Users/oscar/Documents/ThinBoard/keyswitch-kicad-library/modules/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
 )
